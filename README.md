@@ -9,11 +9,11 @@
 - **Section:** C2
 - **Batch:** B1
 
-| Sr. No. | Student Name | Roll Number | Role |
-| :---: | :--- | :---: | :--- |
-| 1 | **Vaishnav Balpande** | `C2-B1-01` | Data Pipeline & Analytics |
-| 2 | **Soham Admane** | `C2-B1-08` | Dashboard & Modeling |
-| 3 | **Lokesh Parate** | `C2-B1-15` | Visualizations & Documentation |
+| Sr. No. | Student Name | Roll Number |
+| :---: | :--- | :---: |
+| 1 | **Vaishnav Balpande** | `C2-B1-01` |
+| 2 | **Soham Admane** | `C2-B1-08` |
+| 3 | **Lokesh Parate** | `C2-B1-15` |
 
 ---
 
@@ -105,3 +105,4 @@ python ecommerce_analytics_lab.py
 ```bash
 python -m notebook E_Commerce_Analytics_Project.ipynb
 ```
+
