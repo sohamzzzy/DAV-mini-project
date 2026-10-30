@@ -1,0 +1,18 @@
+# Raw large datasets (>100MB exceeding GitHub limits)
+ecommerce_data_cleaned.csv
+online_retail_II.csv
+online_retail_II.xlsx
+ecommerce_data_cleaned.csv.gz
+online_retail_II.csv.gz
+
+# Python, Jupyter & Streamlit runtime cache
+__pycache__/
+*.py[cod]
+*$py.class
+.ipynb_checkpoints/
+.streamlit/
+
+# Temporary Office and OS files
+~$*
+.DS_Store
+Thumbs.db
